@@ -1,0 +1,6 @@
+{
+  "name": "CedarWatt AI",
+  "description": "AI energy bill scanner, monthly consumption & tariff trend charts, benchmark tariff validation, multi-turn Gemini chatbot copilot, and municipality complaint filing for fair energy billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
